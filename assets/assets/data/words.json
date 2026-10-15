@@ -1,0 +1,3149 @@
+{
+  "words": [
+    {
+      "word": "zaman",
+      "category": "random",
+      "difficulty": 1
+    },
+    {
+      "word": "an",
+      "category": "random",
+      "difficulty": 1
+    },
+    {
+      "word": "yol",
+      "category": "random",
+      "difficulty": 1
+    },
+    {
+      "word": "kapı",
+      "category": "random",
+      "difficulty": 1
+    },
+    {
+      "word": "pencere",
+      "category": "random",
+      "difficulty": 1
+    },
+    {
+      "word": "ayna",
+      "category": "random",
+      "difficulty": 1
+    },
+    {
+      "word": "düş",
+      "category": "random",
+      "difficulty": 2
+    },
+    {
+      "word": "hayal",
+      "category": "random",
+      "difficulty": 1
+    },
+    {
+      "word": "uyku",
+      "category": "random",
+      "difficulty": 1
+    },
+    {
+      "word": "rüya",
+      "category": "random",
+      "difficulty": 1
+    },
+    {
+      "word": "ses",
+      "category": "random",
+      "difficulty": 1
+    },
+    {
+      "word": "ışık",
+      "category": "random",
+      "difficulty": 1
+    },
+    {
+      "word": "karanlık",
+      "category": "random",
+      "difficulty": 1
+    },
+    {
+      "word": "sessizlik",
+      "category": "random",
+      "difficulty": 2
+    },
+    {
+      "word": "gürültü",
+      "category": "random",
+      "difficulty": 1
+    },
+    {
+      "word": "hareket",
+      "category": "random",
+      "difficulty": 2
+    },
+    {
+      "word": "değişim",
+      "category": "random",
+      "difficulty": 2
+    },
+    {
+      "word": "denge",
+      "category": "random",
+      "difficulty": 2
+    },
+    {
+      "word": "çember",
+      "category": "random",
+      "difficulty": 2
+    },
+    {
+      "word": "döngü",
+      "category": "random",
+      "difficulty": 2
+    },
+    {
+      "word": "patika",
+      "category": "random",
+      "difficulty": 2
+    },
+    {
+      "word": "kavşak",
+      "category": "random",
+      "difficulty": 2
+    },
+    {
+      "word": "eşik",
+      "category": "random",
+      "difficulty": 3
+    },
+    {
+      "word": "sınır",
+      "category": "random",
+      "difficulty": 2
+    },
+    {
+      "word": "boşluk",
+      "category": "random",
+      "difficulty": 2
+    },
+    {
+      "word": "kalabalık",
+      "category": "random",
+      "difficulty": 2
+    },
+    {
+      "word": "beklenti",
+      "category": "random",
+      "difficulty": 3
+    },
+    {
+      "word": "anı",
+      "category": "random",
+      "difficulty": 2
+    },
+    {
+      "word": "tesadüf",
+      "category": "random",
+      "difficulty": 3
+    },
+    {
+      "word": "kader",
+      "category": "random",
+      "difficulty": 2
+    },
+    {
+      "word": "seçim",
+      "category": "random",
+      "difficulty": 2
+    },
+    {
+      "word": "başlangıç",
+      "category": "random",
+      "difficulty": 1
+    },
+    {
+      "word": "son",
+      "category": "random",
+      "difficulty": 1
+    },
+    {
+      "word": "kenar",
+      "category": "random",
+      "difficulty": 1
+    },
+    {
+      "word": "merkez",
+      "category": "random",
+      "difficulty": 2
+    },
+    {
+      "word": "uç",
+      "category": "random",
+      "difficulty": 1
+    },
+    {
+      "word": "iz",
+      "category": "random",
+      "difficulty": 1
+    },
+    {
+      "word": "nefes",
+      "category": "random",
+      "difficulty": 1
+    },
+    {
+      "word": "kalp atışı",
+      "category": "random",
+      "difficulty": 2
+    },
+    {
+      "word": "nabız",
+      "category": "random",
+      "difficulty": 2
+    },
+    {
+      "word": "titreşim",
+      "category": "random",
+      "difficulty": 3
+    },
+    {
+      "word": "frekans",
+      "category": "random",
+      "difficulty": 3
+    },
+    {
+      "word": "sabır",
+      "category": "random",
+      "difficulty": 2
+    },
+    {
+      "word": "cesaret",
+      "category": "random",
+      "difficulty": 2
+    },
+    {
+      "word": "keşif",
+      "category": "random",
+      "difficulty": 2
+    },
+    {
+      "word": "yolculuk",
+      "category": "random",
+      "difficulty": 1
+    },
+    {
+      "word": "hız",
+      "category": "random",
+      "difficulty": 1
+    },
+    {
+      "word": "sükunet",
+      "category": "random",
+      "difficulty": 3
+    },
+    {
+      "word": "sokak",
+      "category": "street",
+      "difficulty": 1
+    },
+    {
+      "word": "mahalle",
+      "category": "street",
+      "difficulty": 1
+    },
+    {
+      "word": "gettho",
+      "category": "street",
+      "difficulty": 2
+    },
+    {
+      "word": "meydan",
+      "category": "street",
+      "difficulty": 1
+    },
+    {
+      "word": "duvar",
+      "category": "street",
+      "difficulty": 1
+    },
+    {
+      "word": "graffiti",
+      "category": "street",
+      "difficulty": 2
+    },
+    {
+      "word": "kaldırım",
+      "category": "street",
+      "difficulty": 1
+    },
+    {
+      "word": "köşe başı",
+      "category": "street",
+      "difficulty": 2
+    },
+    {
+      "word": "apartman",
+      "category": "street",
+      "difficulty": 1
+    },
+    {
+      "word": "sırt çantası",
+      "category": "street",
+      "difficulty": 2
+    },
+    {
+      "word": "kapüşon",
+      "category": "street",
+      "difficulty": 1
+    },
+    {
+      "word": "bere",
+      "category": "street",
+      "difficulty": 1
+    },
+    {
+      "word": "spor ayakkabı",
+      "category": "street",
+      "difficulty": 1
+    },
+    {
+      "word": "bisiklet",
+      "category": "street",
+      "difficulty": 1
+    },
+    {
+      "word": "kaykay",
+      "category": "street",
+      "difficulty": 1
+    },
+    {
+      "word": "basket sahası",
+      "category": "street",
+      "difficulty": 2
+    },
+    {
+      "word": "gece bekçisi",
+      "category": "street",
+      "difficulty": 2
+    },
+    {
+      "word": "çeteleşme",
+      "category": "street",
+      "difficulty": 3
+    },
+    {
+      "word": "sokak lambası",
+      "category": "street",
+      "difficulty": 2
+    },
+    {
+      "word": "dedikodu",
+      "category": "street",
+      "difficulty": 2
+    },
+    {
+      "word": "husumet",
+      "category": "street",
+      "difficulty": 3
+    },
+    {
+      "word": "saygı",
+      "category": "street",
+      "difficulty": 1
+    },
+    {
+      "word": "itibar",
+      "category": "street",
+      "difficulty": 2
+    },
+    {
+      "word": "rekabet",
+      "category": "street",
+      "difficulty": 2
+    },
+    {
+      "word": "ekip",
+      "category": "street",
+      "difficulty": 1
+    },
+    {
+      "word": "kabile",
+      "category": "street",
+      "difficulty": 2
+    },
+    {
+      "word": "mikrofon",
+      "category": "street",
+      "difficulty": 1
+    },
+    {
+      "word": "beat kutusu",
+      "category": "street",
+      "difficulty": 2
+    },
+    {
+      "word": "sahne",
+      "category": "street",
+      "difficulty": 1
+    },
+    {
+      "word": "sokak sanatçısı",
+      "category": "street",
+      "difficulty": 2
+    },
+    {
+      "word": "büfe",
+      "category": "street",
+      "difficulty": 1
+    },
+    {
+      "word": "dolmuş durağı",
+      "category": "street",
+      "difficulty": 2
+    },
+    {
+      "word": "apartman girişi",
+      "category": "street",
+      "difficulty": 2
+    },
+    {
+      "word": "asfalt",
+      "category": "street",
+      "difficulty": 1
+    },
+    {
+      "word": "kaldırım taşı",
+      "category": "street",
+      "difficulty": 2
+    },
+    {
+      "word": "gecekondu",
+      "category": "street",
+      "difficulty": 2
+    },
+    {
+      "word": "pasaj",
+      "category": "street",
+      "difficulty": 2
+    },
+    {
+      "word": "sokak köpeği",
+      "category": "street",
+      "difficulty": 1
+    },
+    {
+      "word": "çıkmaz sokak",
+      "category": "street",
+      "difficulty": 2
+    },
+    {
+      "word": "çete",
+      "category": "street",
+      "difficulty": 2
+    },
+    {
+      "word": "bahçe duvarı",
+      "category": "street",
+      "difficulty": 2
+    },
+    {
+      "word": "kahve",
+      "category": "daily",
+      "difficulty": 1
+    },
+    {
+      "word": "çay",
+      "category": "daily",
+      "difficulty": 1
+    },
+    {
+      "word": "uyanmak",
+      "category": "daily",
+      "difficulty": 1
+    },
+    {
+      "word": "iş",
+      "category": "daily",
+      "difficulty": 1
+    },
+    {
+      "word": "okul",
+      "category": "daily",
+      "difficulty": 1
+    },
+    {
+      "word": "otobüs",
+      "category": "daily",
+      "difficulty": 1
+    },
+    {
+      "word": "market",
+      "category": "daily",
+      "difficulty": 1
+    },
+    {
+      "word": "mutfak",
+      "category": "daily",
+      "difficulty": 1
+    },
+    {
+      "word": "bulaşık",
+      "category": "daily",
+      "difficulty": 1
+    },
+    {
+      "word": "çamaşır",
+      "category": "daily",
+      "difficulty": 1
+    },
+    {
+      "word": "alışveriş",
+      "category": "daily",
+      "difficulty": 1
+    },
+    {
+      "word": "toplantı",
+      "category": "daily",
+      "difficulty": 2
+    },
+    {
+      "word": "mesai",
+      "category": "daily",
+      "difficulty": 2
+    },
+    {
+      "word": "yorgunluk",
+      "category": "daily",
+      "difficulty": 1
+    },
+    {
+      "word": "uykusuzluk",
+      "category": "daily",
+      "difficulty": 2
+    },
+    {
+      "word": "sabah",
+      "category": "daily",
+      "difficulty": 1
+    },
+    {
+      "word": "akşam",
+      "category": "daily",
+      "difficulty": 1
+    },
+    {
+      "word": "hafta sonu",
+      "category": "daily",
+      "difficulty": 1
+    },
+    {
+      "word": "tatil",
+      "category": "daily",
+      "difficulty": 1
+    },
+    {
+      "word": "fatura",
+      "category": "daily",
+      "difficulty": 1
+    },
+    {
+      "word": "kira",
+      "category": "daily",
+      "difficulty": 1
+    },
+    {
+      "word": "ev ödevi",
+      "category": "daily",
+      "difficulty": 1
+    },
+    {
+      "word": "randevu",
+      "category": "daily",
+      "difficulty": 2
+    },
+    {
+      "word": "telefon görüşmesi",
+      "category": "daily",
+      "difficulty": 2
+    },
+    {
+      "word": "mesaj",
+      "category": "daily",
+      "difficulty": 1
+    },
+    {
+      "word": "bildirim",
+      "category": "daily",
+      "difficulty": 2
+    },
+    {
+      "word": "alarm",
+      "category": "daily",
+      "difficulty": 1
+    },
+    {
+      "word": "kahvaltı",
+      "category": "daily",
+      "difficulty": 1
+    },
+    {
+      "word": "öğle arası",
+      "category": "daily",
+      "difficulty": 2
+    },
+    {
+      "word": "dolap",
+      "category": "daily",
+      "difficulty": 1
+    },
+    {
+      "word": "çamaşır makinesi",
+      "category": "daily",
+      "difficulty": 2
+    },
+    {
+      "word": "elektrik faturası",
+      "category": "daily",
+      "difficulty": 2
+    },
+    {
+      "word": "internet kesintisi",
+      "category": "daily",
+      "difficulty": 3
+    },
+    {
+      "word": "sırada bekleme",
+      "category": "daily",
+      "difficulty": 2
+    },
+    {
+      "word": "temizlik",
+      "category": "daily",
+      "difficulty": 1
+    },
+    {
+      "word": "ütü",
+      "category": "daily",
+      "difficulty": 1
+    },
+    {
+      "word": "çöp",
+      "category": "daily",
+      "difficulty": 1
+    },
+    {
+      "word": "asansör",
+      "category": "daily",
+      "difficulty": 1
+    },
+    {
+      "word": "komşu sesi",
+      "category": "daily",
+      "difficulty": 2
+    },
+    {
+      "word": "erken kalkmak",
+      "category": "daily",
+      "difficulty": 2
+    },
+    {
+      "word": "telefon",
+      "category": "objects",
+      "difficulty": 1
+    },
+    {
+      "word": "kalem",
+      "category": "objects",
+      "difficulty": 1
+    },
+    {
+      "word": "defter",
+      "category": "objects",
+      "difficulty": 1
+    },
+    {
+      "word": "çanta",
+      "category": "objects",
+      "difficulty": 1
+    },
+    {
+      "word": "saat",
+      "category": "objects",
+      "difficulty": 1
+    },
+    {
+      "word": "gözlük",
+      "category": "objects",
+      "difficulty": 1
+    },
+    {
+      "word": "anahtar",
+      "category": "objects",
+      "difficulty": 1
+    },
+    {
+      "word": "cüzdan",
+      "category": "objects",
+      "difficulty": 1
+    },
+    {
+      "word": "bardak",
+      "category": "objects",
+      "difficulty": 1
+    },
+    {
+      "word": "tabak",
+      "category": "objects",
+      "difficulty": 1
+    },
+    {
+      "word": "kaşık",
+      "category": "objects",
+      "difficulty": 1
+    },
+    {
+      "word": "çatal",
+      "category": "objects",
+      "difficulty": 1
+    },
+    {
+      "word": "bıçak",
+      "category": "objects",
+      "difficulty": 1
+    },
+    {
+      "word": "sandalye",
+      "category": "objects",
+      "difficulty": 1
+    },
+    {
+      "word": "masa",
+      "category": "objects",
+      "difficulty": 1
+    },
+    {
+      "word": "lamba",
+      "category": "objects",
+      "difficulty": 1
+    },
+    {
+      "word": "aynalı dolap",
+      "category": "objects",
+      "difficulty": 2
+    },
+    {
+      "word": "merdiven",
+      "category": "objects",
+      "difficulty": 2
+    },
+    {
+      "word": "pusula",
+      "category": "objects",
+      "difficulty": 2
+    },
+    {
+      "word": "kilit",
+      "category": "objects",
+      "difficulty": 2
+    },
+    {
+      "word": "zincir",
+      "category": "objects",
+      "difficulty": 2
+    },
+    {
+      "word": "çekiç",
+      "category": "objects",
+      "difficulty": 2
+    },
+    {
+      "word": "tornavida",
+      "category": "objects",
+      "difficulty": 2
+    },
+    {
+      "word": "makas",
+      "category": "objects",
+      "difficulty": 1
+    },
+    {
+      "word": "iğne",
+      "category": "objects",
+      "difficulty": 2
+    },
+    {
+      "word": "iplik",
+      "category": "objects",
+      "difficulty": 2
+    },
+    {
+      "word": "kutu",
+      "category": "objects",
+      "difficulty": 1
+    },
+    {
+      "word": "valiz",
+      "category": "objects",
+      "difficulty": 1
+    },
+    {
+      "word": "şemsiye",
+      "category": "objects",
+      "difficulty": 1
+    },
+    {
+      "word": "mum",
+      "category": "objects",
+      "difficulty": 1
+    },
+    {
+      "word": "çakmak",
+      "category": "objects",
+      "difficulty": 1
+    },
+    {
+      "word": "harita",
+      "category": "objects",
+      "difficulty": 2
+    },
+    {
+      "word": "dürbün",
+      "category": "objects",
+      "difficulty": 2
+    },
+    {
+      "word": "teleskop",
+      "category": "objects",
+      "difficulty": 3
+    },
+    {
+      "word": "mikroskop",
+      "category": "objects",
+      "difficulty": 3
+    },
+    {
+      "word": "kilitli sandık",
+      "category": "objects",
+      "difficulty": 3
+    },
+    {
+      "word": "eski radyo",
+      "category": "objects",
+      "difficulty": 2
+    },
+    {
+      "word": "bozuk saat",
+      "category": "objects",
+      "difficulty": 2
+    },
+    {
+      "word": "kırık ayna",
+      "category": "objects",
+      "difficulty": 2
+    },
+    {
+      "word": "kolye",
+      "category": "objects",
+      "difficulty": 1
+    },
+    {
+      "word": "yüzük",
+      "category": "objects",
+      "difficulty": 1
+    },
+    {
+      "word": "ev",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "word": "hastane",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "word": "park",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "word": "cami",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "word": "plaj",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "word": "çöl",
+      "category": "places",
+      "difficulty": 2
+    },
+    {
+      "word": "ada",
+      "category": "places",
+      "difficulty": 2
+    },
+    {
+      "word": "liman",
+      "category": "places",
+      "difficulty": 2
+    },
+    {
+      "word": "istasyon",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "word": "havalimanı",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "word": "otogar",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "word": "kütüphane",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "word": "stadyum",
+      "category": "places",
+      "difficulty": 2
+    },
+    {
+      "word": "müze",
+      "category": "places",
+      "difficulty": 2
+    },
+    {
+      "word": "sinema",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "word": "tiyatro",
+      "category": "places",
+      "difficulty": 2
+    },
+    {
+      "word": "pazar yeri",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "word": "mahzen",
+      "category": "places",
+      "difficulty": 2
+    },
+    {
+      "word": "çatı katı",
+      "category": "places",
+      "difficulty": 2
+    },
+    {
+      "word": "bodrum",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "word": "balkon",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "word": "terk edilmiş bina",
+      "category": "places",
+      "difficulty": 3
+    },
+    {
+      "word": "köprü altı",
+      "category": "places",
+      "difficulty": 2
+    },
+    {
+      "word": "mağara",
+      "category": "places",
+      "difficulty": 2
+    },
+    {
+      "word": "vadi",
+      "category": "places",
+      "difficulty": 2
+    },
+    {
+      "word": "yayla",
+      "category": "places",
+      "difficulty": 2
+    },
+    {
+      "word": "kıyı şeridi",
+      "category": "places",
+      "difficulty": 2
+    },
+    {
+      "word": "sınır kapısı",
+      "category": "places",
+      "difficulty": 3
+    },
+    {
+      "word": "gökdelen",
+      "category": "places",
+      "difficulty": 2
+    },
+    {
+      "word": "labirent",
+      "category": "places",
+      "difficulty": 3
+    },
+    {
+      "word": "liman kenti",
+      "category": "places",
+      "difficulty": 2
+    },
+    {
+      "word": "terminal",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "word": "meyhane",
+      "category": "places",
+      "difficulty": 2
+    },
+    {
+      "word": "pastane",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "word": "eczane",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "word": "kale",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "word": "saray",
+      "category": "places",
+      "difficulty": 2
+    },
+    {
+      "word": "değirmen",
+      "category": "places",
+      "difficulty": 2
+    },
+    {
+      "word": "fabrika",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "word": "anne",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "word": "baba",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "word": "kardeş",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "word": "arkadaş",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "word": "düşman",
+      "category": "people",
+      "difficulty": 2
+    },
+    {
+      "word": "komşu",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "word": "öğretmen",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "word": "doktor",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "word": "polis",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "word": "asker",
+      "category": "people",
+      "difficulty": 2
+    },
+    {
+      "word": "işçi",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "word": "patron",
+      "category": "people",
+      "difficulty": 2
+    },
+    {
+      "word": "yabancı",
+      "category": "people",
+      "difficulty": 2
+    },
+    {
+      "word": "aşık",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "word": "dost",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "word": "rakip",
+      "category": "people",
+      "difficulty": 2
+    },
+    {
+      "word": "kahraman",
+      "category": "people",
+      "difficulty": 2
+    },
+    {
+      "word": "hain",
+      "category": "people",
+      "difficulty": 2
+    },
+    {
+      "word": "bilge",
+      "category": "people",
+      "difficulty": 2
+    },
+    {
+      "word": "yolcu",
+      "category": "people",
+      "difficulty": 2
+    },
+    {
+      "word": "gezgin",
+      "category": "people",
+      "difficulty": 2
+    },
+    {
+      "word": "dilenci",
+      "category": "people",
+      "difficulty": 2
+    },
+    {
+      "word": "mahkum",
+      "category": "people",
+      "difficulty": 2
+    },
+    {
+      "word": "hakim",
+      "category": "people",
+      "difficulty": 2
+    },
+    {
+      "word": "sanatçı",
+      "category": "people",
+      "difficulty": 2
+    },
+    {
+      "word": "ozan",
+      "category": "people",
+      "difficulty": 2
+    },
+    {
+      "word": "şair",
+      "category": "people",
+      "difficulty": 2
+    },
+    {
+      "word": "filozof",
+      "category": "people",
+      "difficulty": 3
+    },
+    {
+      "word": "mucit",
+      "category": "people",
+      "difficulty": 3
+    },
+    {
+      "word": "kaşif",
+      "category": "people",
+      "difficulty": 2
+    },
+    {
+      "word": "çoban",
+      "category": "people",
+      "difficulty": 2
+    },
+    {
+      "word": "balıkçı",
+      "category": "people",
+      "difficulty": 2
+    },
+    {
+      "word": "çiftçi",
+      "category": "people",
+      "difficulty": 2
+    },
+    {
+      "word": "berber",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "word": "terzi",
+      "category": "people",
+      "difficulty": 2
+    },
+    {
+      "word": "muhtar",
+      "category": "people",
+      "difficulty": 2
+    },
+    {
+      "word": "bekçi",
+      "category": "people",
+      "difficulty": 2
+    },
+    {
+      "word": "mühendis",
+      "category": "people",
+      "difficulty": 2
+    },
+    {
+      "word": "mimar",
+      "category": "people",
+      "difficulty": 2
+    },
+    {
+      "word": "gurbetçi",
+      "category": "people",
+      "difficulty": 3
+    },
+    {
+      "word": "mutluluk",
+      "category": "emotions",
+      "difficulty": 1
+    },
+    {
+      "word": "üzüntü",
+      "category": "emotions",
+      "difficulty": 1
+    },
+    {
+      "word": "öfke",
+      "category": "emotions",
+      "difficulty": 1
+    },
+    {
+      "word": "korku",
+      "category": "emotions",
+      "difficulty": 1
+    },
+    {
+      "word": "heyecan",
+      "category": "emotions",
+      "difficulty": 1
+    },
+    {
+      "word": "umut",
+      "category": "emotions",
+      "difficulty": 1
+    },
+    {
+      "word": "umutsuzluk",
+      "category": "emotions",
+      "difficulty": 2
+    },
+    {
+      "word": "kıskançlık",
+      "category": "emotions",
+      "difficulty": 2
+    },
+    {
+      "word": "gurur",
+      "category": "emotions",
+      "difficulty": 2
+    },
+    {
+      "word": "utanç",
+      "category": "emotions",
+      "difficulty": 2
+    },
+    {
+      "word": "pişmanlık",
+      "category": "emotions",
+      "difficulty": 2
+    },
+    {
+      "word": "özlem",
+      "category": "emotions",
+      "difficulty": 2
+    },
+    {
+      "word": "sevinç",
+      "category": "emotions",
+      "difficulty": 1
+    },
+    {
+      "word": "hüzün",
+      "category": "emotions",
+      "difficulty": 2
+    },
+    {
+      "word": "nefret",
+      "category": "emotions",
+      "difficulty": 2
+    },
+    {
+      "word": "aşk",
+      "category": "emotions",
+      "difficulty": 1
+    },
+    {
+      "word": "tutku",
+      "category": "emotions",
+      "difficulty": 2
+    },
+    {
+      "word": "kaygı",
+      "category": "emotions",
+      "difficulty": 2
+    },
+    {
+      "word": "endişe",
+      "category": "emotions",
+      "difficulty": 2
+    },
+    {
+      "word": "huzur",
+      "category": "emotions",
+      "difficulty": 2
+    },
+    {
+      "word": "panik",
+      "category": "emotions",
+      "difficulty": 2
+    },
+    {
+      "word": "şaşkınlık",
+      "category": "emotions",
+      "difficulty": 2
+    },
+    {
+      "word": "hayal kırıklığı",
+      "category": "emotions",
+      "difficulty": 3
+    },
+    {
+      "word": "yalnızlık",
+      "category": "emotions",
+      "difficulty": 2
+    },
+    {
+      "word": "güven",
+      "category": "emotions",
+      "difficulty": 2
+    },
+    {
+      "word": "güvensizlik",
+      "category": "emotions",
+      "difficulty": 3
+    },
+    {
+      "word": "merak",
+      "category": "emotions",
+      "difficulty": 1
+    },
+    {
+      "word": "bıkkınlık",
+      "category": "emotions",
+      "difficulty": 3
+    },
+    {
+      "word": "vicdan azabı",
+      "category": "emotions",
+      "difficulty": 3
+    },
+    {
+      "word": "iç huzuru",
+      "category": "emotions",
+      "difficulty": 3
+    },
+    {
+      "word": "boşluk hissi",
+      "category": "emotions",
+      "difficulty": 3
+    },
+    {
+      "word": "tatmin",
+      "category": "emotions",
+      "difficulty": 3
+    },
+    {
+      "word": "tükenmişlik",
+      "category": "emotions",
+      "difficulty": 3
+    },
+    {
+      "word": "coşku",
+      "category": "emotions",
+      "difficulty": 2
+    },
+    {
+      "word": "melankoli",
+      "category": "emotions",
+      "difficulty": 3
+    },
+    {
+      "word": "empati",
+      "category": "emotions",
+      "difficulty": 3
+    },
+    {
+      "word": "kırgınlık",
+      "category": "emotions",
+      "difficulty": 2
+    },
+    {
+      "word": "minnettarlık",
+      "category": "emotions",
+      "difficulty": 3
+    },
+    {
+      "word": "yağmur",
+      "category": "nature",
+      "difficulty": 1
+    },
+    {
+      "word": "kar",
+      "category": "nature",
+      "difficulty": 1
+    },
+    {
+      "word": "rüzgar",
+      "category": "nature",
+      "difficulty": 1
+    },
+    {
+      "word": "güneş",
+      "category": "nature",
+      "difficulty": 1
+    },
+    {
+      "word": "ay",
+      "category": "nature",
+      "difficulty": 1
+    },
+    {
+      "word": "yıldız",
+      "category": "nature",
+      "difficulty": 1
+    },
+    {
+      "word": "deniz",
+      "category": "nature",
+      "difficulty": 1
+    },
+    {
+      "word": "nehir",
+      "category": "nature",
+      "difficulty": 1
+    },
+    {
+      "word": "göl",
+      "category": "nature",
+      "difficulty": 1
+    },
+    {
+      "word": "orman",
+      "category": "nature",
+      "difficulty": 1
+    },
+    {
+      "word": "dağ",
+      "category": "nature",
+      "difficulty": 1
+    },
+    {
+      "word": "ova",
+      "category": "nature",
+      "difficulty": 2
+    },
+    {
+      "word": "çayır",
+      "category": "nature",
+      "difficulty": 2
+    },
+    {
+      "word": "bulut",
+      "category": "nature",
+      "difficulty": 1
+    },
+    {
+      "word": "gökkuşağı",
+      "category": "nature",
+      "difficulty": 1
+    },
+    {
+      "word": "şimşek",
+      "category": "nature",
+      "difficulty": 2
+    },
+    {
+      "word": "gökgürültüsü",
+      "category": "nature",
+      "difficulty": 2
+    },
+    {
+      "word": "fırtına",
+      "category": "nature",
+      "difficulty": 2
+    },
+    {
+      "word": "çiy",
+      "category": "nature",
+      "difficulty": 3
+    },
+    {
+      "word": "sis",
+      "category": "nature",
+      "difficulty": 2
+    },
+    {
+      "word": "don",
+      "category": "nature",
+      "difficulty": 2
+    },
+    {
+      "word": "kuraklık",
+      "category": "nature",
+      "difficulty": 2
+    },
+    {
+      "word": "sel",
+      "category": "nature",
+      "difficulty": 2
+    },
+    {
+      "word": "volkan",
+      "category": "nature",
+      "difficulty": 2
+    },
+    {
+      "word": "mercan",
+      "category": "nature",
+      "difficulty": 2
+    },
+    {
+      "word": "dalga",
+      "category": "nature",
+      "difficulty": 1
+    },
+    {
+      "word": "kum",
+      "category": "nature",
+      "difficulty": 1
+    },
+    {
+      "word": "toprak",
+      "category": "nature",
+      "difficulty": 1
+    },
+    {
+      "word": "kök",
+      "category": "nature",
+      "difficulty": 2
+    },
+    {
+      "word": "yaprak",
+      "category": "nature",
+      "difficulty": 1
+    },
+    {
+      "word": "dal",
+      "category": "nature",
+      "difficulty": 1
+    },
+    {
+      "word": "çiçek",
+      "category": "nature",
+      "difficulty": 1
+    },
+    {
+      "word": "tohum",
+      "category": "nature",
+      "difficulty": 2
+    },
+    {
+      "word": "ekosistem",
+      "category": "nature",
+      "difficulty": 3
+    },
+    {
+      "word": "mevsim",
+      "category": "nature",
+      "difficulty": 2
+    },
+    {
+      "word": "ekinoks",
+      "category": "nature",
+      "difficulty": 4
+    },
+    {
+      "word": "erozyon",
+      "category": "nature",
+      "difficulty": 3
+    },
+    {
+      "word": "buzul",
+      "category": "nature",
+      "difficulty": 2
+    },
+    {
+      "word": "mercan resifi",
+      "category": "nature",
+      "difficulty": 3
+    },
+    {
+      "word": "şafak",
+      "category": "nature",
+      "difficulty": 2
+    },
+    {
+      "word": "bilgisayar",
+      "category": "technology",
+      "difficulty": 1
+    },
+    {
+      "word": "internet",
+      "category": "technology",
+      "difficulty": 1
+    },
+    {
+      "word": "robot",
+      "category": "technology",
+      "difficulty": 1
+    },
+    {
+      "word": "yapay zeka",
+      "category": "technology",
+      "difficulty": 2
+    },
+    {
+      "word": "algoritma",
+      "category": "technology",
+      "difficulty": 3
+    },
+    {
+      "word": "kod",
+      "category": "technology",
+      "difficulty": 2
+    },
+    {
+      "word": "yazılım",
+      "category": "technology",
+      "difficulty": 2
+    },
+    {
+      "word": "donanım",
+      "category": "technology",
+      "difficulty": 2
+    },
+    {
+      "word": "ekran",
+      "category": "technology",
+      "difficulty": 1
+    },
+    {
+      "word": "kamera",
+      "category": "technology",
+      "difficulty": 1
+    },
+    {
+      "word": "şarj",
+      "category": "technology",
+      "difficulty": 1
+    },
+    {
+      "word": "pil",
+      "category": "technology",
+      "difficulty": 1
+    },
+    {
+      "word": "kablo",
+      "category": "technology",
+      "difficulty": 1
+    },
+    {
+      "word": "uygulama",
+      "category": "technology",
+      "difficulty": 1
+    },
+    {
+      "word": "veri",
+      "category": "technology",
+      "difficulty": 2
+    },
+    {
+      "word": "bulut sistemi",
+      "category": "technology",
+      "difficulty": 2
+    },
+    {
+      "word": "sunucu",
+      "category": "technology",
+      "difficulty": 2
+    },
+    {
+      "word": "ağ",
+      "category": "technology",
+      "difficulty": 2
+    },
+    {
+      "word": "şifre",
+      "category": "technology",
+      "difficulty": 1
+    },
+    {
+      "word": "virüs",
+      "category": "technology",
+      "difficulty": 2
+    },
+    {
+      "word": "güncelleme",
+      "category": "technology",
+      "difficulty": 2
+    },
+    {
+      "word": "koordinat",
+      "category": "technology",
+      "difficulty": 2
+    },
+    {
+      "word": "sensör",
+      "category": "technology",
+      "difficulty": 2
+    },
+    {
+      "word": "çip",
+      "category": "technology",
+      "difficulty": 2
+    },
+    {
+      "word": "devre",
+      "category": "technology",
+      "difficulty": 2
+    },
+    {
+      "word": "uydu",
+      "category": "technology",
+      "difficulty": 2
+    },
+    {
+      "word": "drone",
+      "category": "technology",
+      "difficulty": 2
+    },
+    {
+      "word": "hologram",
+      "category": "technology",
+      "difficulty": 3
+    },
+    {
+      "word": "simülasyon",
+      "category": "technology",
+      "difficulty": 3
+    },
+    {
+      "word": "blockchain",
+      "category": "technology",
+      "difficulty": 3
+    },
+    {
+      "word": "otomasyon",
+      "category": "technology",
+      "difficulty": 3
+    },
+    {
+      "word": "arayüz",
+      "category": "technology",
+      "difficulty": 3
+    },
+    {
+      "word": "veritabanı",
+      "category": "technology",
+      "difficulty": 3
+    },
+    {
+      "word": "sanal gerçeklik",
+      "category": "technology",
+      "difficulty": 2
+    },
+    {
+      "word": "kuantum",
+      "category": "technology",
+      "difficulty": 4
+    },
+    {
+      "word": "mikroçip",
+      "category": "technology",
+      "difficulty": 3
+    },
+    {
+      "word": "sunucu çökmesi",
+      "category": "technology",
+      "difficulty": 3
+    },
+    {
+      "word": "piksel",
+      "category": "technology",
+      "difficulty": 2
+    },
+    {
+      "word": "navigasyon",
+      "category": "technology",
+      "difficulty": 2
+    },
+    {
+      "word": "bluetooth",
+      "category": "technology",
+      "difficulty": 1
+    },
+    {
+      "word": "yazıcı",
+      "category": "technology",
+      "difficulty": 1
+    },
+    {
+      "word": "klavye",
+      "category": "technology",
+      "difficulty": 1
+    },
+    {
+      "word": "fare",
+      "category": "technology",
+      "difficulty": 1
+    },
+    {
+      "word": "router",
+      "category": "technology",
+      "difficulty": 2
+    },
+    {
+      "word": "modem",
+      "category": "technology",
+      "difficulty": 2
+    },
+    {
+      "word": "ekmek",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "word": "su",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "word": "simit",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "word": "döner",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "word": "kebap",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "word": "pilav",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "word": "çorba",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "word": "salata",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "word": "meyve",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "word": "sebze",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "word": "et",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "word": "tavuk",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "word": "balık",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "word": "peynir",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "word": "zeytin",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "word": "bal",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "word": "tatlı",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "word": "baklava",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "word": "lahmacun",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "word": "pide",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "word": "mercimek",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "word": "nohut",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "word": "bulgur",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "word": "yoğurt",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "word": "ayran",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "word": "limon",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "word": "nane",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "word": "tarçın",
+      "category": "food",
+      "difficulty": 2
+    },
+    {
+      "word": "baharat",
+      "category": "food",
+      "difficulty": 2
+    },
+    {
+      "word": "tuz",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "word": "şeker",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "word": "un",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "word": "yağ",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "word": "fırın",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "word": "tencere",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "word": "tava",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "word": "közleme",
+      "category": "food",
+      "difficulty": 2
+    },
+    {
+      "word": "turşu",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "word": "çerez",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "word": "kuruyemiş",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "word": "para",
+      "category": "money",
+      "difficulty": 1
+    },
+    {
+      "word": "borç",
+      "category": "money",
+      "difficulty": 1
+    },
+    {
+      "word": "banka",
+      "category": "money",
+      "difficulty": 1
+    },
+    {
+      "word": "kredi kartı",
+      "category": "money",
+      "difficulty": 1
+    },
+    {
+      "word": "faiz",
+      "category": "money",
+      "difficulty": 2
+    },
+    {
+      "word": "maaş",
+      "category": "money",
+      "difficulty": 1
+    },
+    {
+      "word": "zam",
+      "category": "money",
+      "difficulty": 2
+    },
+    {
+      "word": "enflasyon",
+      "category": "money",
+      "difficulty": 2
+    },
+    {
+      "word": "yatırım",
+      "category": "money",
+      "difficulty": 2
+    },
+    {
+      "word": "tasarruf",
+      "category": "money",
+      "difficulty": 2
+    },
+    {
+      "word": "harcama",
+      "category": "money",
+      "difficulty": 1
+    },
+    {
+      "word": "bütçe",
+      "category": "money",
+      "difficulty": 2
+    },
+    {
+      "word": "kazanç",
+      "category": "money",
+      "difficulty": 1
+    },
+    {
+      "word": "kayıp",
+      "category": "money",
+      "difficulty": 1
+    },
+    {
+      "word": "iflas",
+      "category": "money",
+      "difficulty": 2
+    },
+    {
+      "word": "servet",
+      "category": "money",
+      "difficulty": 2
+    },
+    {
+      "word": "yoksulluk",
+      "category": "money",
+      "difficulty": 2
+    },
+    {
+      "word": "zenginlik",
+      "category": "money",
+      "difficulty": 1
+    },
+    {
+      "word": "altın",
+      "category": "money",
+      "difficulty": 1
+    },
+    {
+      "word": "döviz",
+      "category": "money",
+      "difficulty": 2
+    },
+    {
+      "word": "borsa",
+      "category": "money",
+      "difficulty": 2
+    },
+    {
+      "word": "hisse",
+      "category": "money",
+      "difficulty": 2
+    },
+    {
+      "word": "çek",
+      "category": "money",
+      "difficulty": 2
+    },
+    {
+      "word": "senet",
+      "category": "money",
+      "difficulty": 3
+    },
+    {
+      "word": "vergi",
+      "category": "money",
+      "difficulty": 2
+    },
+    {
+      "word": "kâr",
+      "category": "money",
+      "difficulty": 2
+    },
+    {
+      "word": "zarar",
+      "category": "money",
+      "difficulty": 1
+    },
+    {
+      "word": "nakit",
+      "category": "money",
+      "difficulty": 1
+    },
+    {
+      "word": "kripto para",
+      "category": "money",
+      "difficulty": 2
+    },
+    {
+      "word": "piyango",
+      "category": "money",
+      "difficulty": 1
+    },
+    {
+      "word": "miras",
+      "category": "money",
+      "difficulty": 2
+    },
+    {
+      "word": "rüşvet",
+      "category": "money",
+      "difficulty": 3
+    },
+    {
+      "word": "tefeci",
+      "category": "money",
+      "difficulty": 3
+    },
+    {
+      "word": "bahşiş",
+      "category": "money",
+      "difficulty": 1
+    },
+    {
+      "word": "kumbara",
+      "category": "money",
+      "difficulty": 1
+    },
+    {
+      "word": "peşinat",
+      "category": "money",
+      "difficulty": 2
+    },
+    {
+      "word": "cebi delik",
+      "category": "money",
+      "difficulty": 3
+    },
+    {
+      "word": "banknot",
+      "category": "money",
+      "difficulty": 1
+    },
+    {
+      "word": "bozuk para",
+      "category": "money",
+      "difficulty": 1
+    },
+    {
+      "word": "faturasız",
+      "category": "money",
+      "difficulty": 3
+    },
+    {
+      "word": "ekonomik kriz",
+      "category": "money",
+      "difficulty": 2
+    },
+    {
+      "word": "araba",
+      "category": "transportation",
+      "difficulty": 1
+    },
+    {
+      "word": "metro",
+      "category": "transportation",
+      "difficulty": 1
+    },
+    {
+      "word": "tren",
+      "category": "transportation",
+      "difficulty": 1
+    },
+    {
+      "word": "uçak",
+      "category": "transportation",
+      "difficulty": 1
+    },
+    {
+      "word": "gemi",
+      "category": "transportation",
+      "difficulty": 1
+    },
+    {
+      "word": "motosiklet",
+      "category": "transportation",
+      "difficulty": 1
+    },
+    {
+      "word": "taksi",
+      "category": "transportation",
+      "difficulty": 1
+    },
+    {
+      "word": "dolmuş",
+      "category": "transportation",
+      "difficulty": 1
+    },
+    {
+      "word": "vapur",
+      "category": "transportation",
+      "difficulty": 1
+    },
+    {
+      "word": "tramvay",
+      "category": "transportation",
+      "difficulty": 1
+    },
+    {
+      "word": "kamyon",
+      "category": "transportation",
+      "difficulty": 1
+    },
+    {
+      "word": "bagaj",
+      "category": "transportation",
+      "difficulty": 1
+    },
+    {
+      "word": "bilet",
+      "category": "transportation",
+      "difficulty": 1
+    },
+    {
+      "word": "peron",
+      "category": "transportation",
+      "difficulty": 2
+    },
+    {
+      "word": "rota",
+      "category": "transportation",
+      "difficulty": 2
+    },
+    {
+      "word": "direksiyon",
+      "category": "transportation",
+      "difficulty": 2
+    },
+    {
+      "word": "fren",
+      "category": "transportation",
+      "difficulty": 1
+    },
+    {
+      "word": "yakıt",
+      "category": "transportation",
+      "difficulty": 1
+    },
+    {
+      "word": "trafik",
+      "category": "transportation",
+      "difficulty": 2
+    },
+    {
+      "word": "kaza",
+      "category": "transportation",
+      "difficulty": 2
+    },
+    {
+      "word": "otoyol",
+      "category": "transportation",
+      "difficulty": 1
+    },
+    {
+      "word": "gişe",
+      "category": "transportation",
+      "difficulty": 2
+    },
+    {
+      "word": "gümrük",
+      "category": "transportation",
+      "difficulty": 2
+    },
+    {
+      "word": "pasaport",
+      "category": "transportation",
+      "difficulty": 1
+    },
+    {
+      "word": "uçuş",
+      "category": "transportation",
+      "difficulty": 1
+    },
+    {
+      "word": "iniş",
+      "category": "transportation",
+      "difficulty": 1
+    },
+    {
+      "word": "kalkış",
+      "category": "transportation",
+      "difficulty": 1
+    },
+    {
+      "word": "rota sapması",
+      "category": "transportation",
+      "difficulty": 3
+    },
+    {
+      "word": "mola",
+      "category": "transportation",
+      "difficulty": 1
+    },
+    {
+      "word": "sürücü",
+      "category": "transportation",
+      "difficulty": 1
+    },
+    {
+      "word": "kavşak trafiği",
+      "category": "transportation",
+      "difficulty": 3
+    },
+    {
+      "word": "emniyet kemeri",
+      "category": "transportation",
+      "difficulty": 2
+    },
+    {
+      "word": "teleferik",
+      "category": "transportation",
+      "difficulty": 2
+    },
+    {
+      "word": "feribot",
+      "category": "transportation",
+      "difficulty": 1
+    },
+    {
+      "word": "scooter",
+      "category": "transportation",
+      "difficulty": 1
+    },
+    {
+      "word": "kaptan köşkü",
+      "category": "transportation",
+      "difficulty": 3
+    },
+    {
+      "word": "pilot kabini",
+      "category": "transportation",
+      "difficulty": 2
+    },
+    {
+      "word": "hız treni",
+      "category": "transportation",
+      "difficulty": 2
+    },
+    {
+      "word": "palyaço",
+      "category": "humor",
+      "difficulty": 1
+    },
+    {
+      "word": "şaka",
+      "category": "humor",
+      "difficulty": 1
+    },
+    {
+      "word": "gaf",
+      "category": "humor",
+      "difficulty": 2
+    },
+    {
+      "word": "kahkaha",
+      "category": "humor",
+      "difficulty": 1
+    },
+    {
+      "word": "tekerleme",
+      "category": "humor",
+      "difficulty": 2
+    },
+    {
+      "word": "absürt",
+      "category": "humor",
+      "difficulty": 3
+    },
+    {
+      "word": "garip",
+      "category": "humor",
+      "difficulty": 1
+    },
+    {
+      "word": "komik anı",
+      "category": "humor",
+      "difficulty": 2
+    },
+    {
+      "word": "mizah",
+      "category": "humor",
+      "difficulty": 2
+    },
+    {
+      "word": "ironi",
+      "category": "humor",
+      "difficulty": 3
+    },
+    {
+      "word": "parodi",
+      "category": "humor",
+      "difficulty": 3
+    },
+    {
+      "word": "taklit",
+      "category": "humor",
+      "difficulty": 2
+    },
+    {
+      "word": "gıdıklanma",
+      "category": "humor",
+      "difficulty": 2
+    },
+    {
+      "word": "banana kabuğu",
+      "category": "humor",
+      "difficulty": 3
+    },
+    {
+      "word": "tökezleme",
+      "category": "humor",
+      "difficulty": 2
+    },
+    {
+      "word": "yanlış anlaşılma",
+      "category": "humor",
+      "difficulty": 3
+    },
+    {
+      "word": "kekeleme",
+      "category": "humor",
+      "difficulty": 2
+    },
+    {
+      "word": "hıçkırık",
+      "category": "humor",
+      "difficulty": 2
+    },
+    {
+      "word": "gaflet",
+      "category": "humor",
+      "difficulty": 3
+    },
+    {
+      "word": "çat kapı",
+      "category": "humor",
+      "difficulty": 2
+    },
+    {
+      "word": "sürpriz parti",
+      "category": "humor",
+      "difficulty": 2
+    },
+    {
+      "word": "kazara",
+      "category": "humor",
+      "difficulty": 2
+    },
+    {
+      "word": "utanç verici an",
+      "category": "humor",
+      "difficulty": 3
+    },
+    {
+      "word": "gülme krizi",
+      "category": "humor",
+      "difficulty": 3
+    },
+    {
+      "word": "şapşallık",
+      "category": "humor",
+      "difficulty": 2
+    },
+    {
+      "word": "saçmalık",
+      "category": "humor",
+      "difficulty": 2
+    },
+    {
+      "word": "komedi",
+      "category": "humor",
+      "difficulty": 1
+    },
+    {
+      "word": "espri",
+      "category": "humor",
+      "difficulty": 1
+    },
+    {
+      "word": "nükte",
+      "category": "humor",
+      "difficulty": 3
+    },
+    {
+      "word": "kelime oyunu",
+      "category": "humor",
+      "difficulty": 3
+    },
+    {
+      "word": "maskara",
+      "category": "humor",
+      "difficulty": 2
+    },
+    {
+      "word": "gülünç durum",
+      "category": "humor",
+      "difficulty": 2
+    },
+    {
+      "word": "şakacı",
+      "category": "humor",
+      "difficulty": 1
+    },
+    {
+      "word": "mizahi taklit",
+      "category": "humor",
+      "difficulty": 3
+    },
+    {
+      "word": "çat pat espri",
+      "category": "humor",
+      "difficulty": 3
+    },
+    {
+      "word": "meydan okuma",
+      "category": "battle",
+      "difficulty": 2
+    },
+    {
+      "word": "diss",
+      "category": "battle",
+      "difficulty": 2
+    },
+    {
+      "word": "hakaret",
+      "category": "battle",
+      "difficulty": 2
+    },
+    {
+      "word": "üstünlük",
+      "category": "battle",
+      "difficulty": 2
+    },
+    {
+      "word": "gurur kırma",
+      "category": "battle",
+      "difficulty": 3
+    },
+    {
+      "word": "tekme",
+      "category": "battle",
+      "difficulty": 2
+    },
+    {
+      "word": "yumruk",
+      "category": "battle",
+      "difficulty": 2
+    },
+    {
+      "word": "nakavt",
+      "category": "battle",
+      "difficulty": 2
+    },
+    {
+      "word": "hamle",
+      "category": "battle",
+      "difficulty": 2
+    },
+    {
+      "word": "savunma",
+      "category": "battle",
+      "difficulty": 2
+    },
+    {
+      "word": "saldırı",
+      "category": "battle",
+      "difficulty": 1
+    },
+    {
+      "word": "taktik",
+      "category": "battle",
+      "difficulty": 2
+    },
+    {
+      "word": "strateji",
+      "category": "battle",
+      "difficulty": 2
+    },
+    {
+      "word": "zafer",
+      "category": "battle",
+      "difficulty": 1
+    },
+    {
+      "word": "mağlubiyet",
+      "category": "battle",
+      "difficulty": 2
+    },
+    {
+      "word": "gerilim",
+      "category": "battle",
+      "difficulty": 2
+    },
+    {
+      "word": "tuzak",
+      "category": "battle",
+      "difficulty": 2
+    },
+    {
+      "word": "hakikat",
+      "category": "battle",
+      "difficulty": 3
+    },
+    {
+      "word": "laf sokma",
+      "category": "battle",
+      "difficulty": 3
+    },
+    {
+      "word": "kelime düellosu",
+      "category": "battle",
+      "difficulty": 3
+    },
+    {
+      "word": "punchline",
+      "category": "battle",
+      "difficulty": 2
+    },
+    {
+      "word": "flow",
+      "category": "battle",
+      "difficulty": 1
+    },
+    {
+      "word": "kafiye",
+      "category": "battle",
+      "difficulty": 1
+    },
+    {
+      "word": "beat düşüşü",
+      "category": "battle",
+      "difficulty": 3
+    },
+    {
+      "word": "mikrofon savaşı",
+      "category": "battle",
+      "difficulty": 3
+    },
+    {
+      "word": "sözle vurmak",
+      "category": "battle",
+      "difficulty": 3
+    },
+    {
+      "word": "acımasızlık",
+      "category": "battle",
+      "difficulty": 2
+    },
+    {
+      "word": "dominasyon",
+      "category": "battle",
+      "difficulty": 3
+    },
+    {
+      "word": "kürsü",
+      "category": "battle",
+      "difficulty": 2
+    },
+    {
+      "word": "jüri",
+      "category": "battle",
+      "difficulty": 2
+    },
+    {
+      "word": "alkış",
+      "category": "battle",
+      "difficulty": 1
+    },
+    {
+      "word": "çember savaşı",
+      "category": "battle",
+      "difficulty": 3
+    },
+    {
+      "word": "son söz",
+      "category": "battle",
+      "difficulty": 2
+    },
+    {
+      "word": "kelimelerin gücü",
+      "category": "battle",
+      "difficulty": 3
+    },
+    {
+      "word": "nokta atışı",
+      "category": "battle",
+      "difficulty": 3
+    },
+    {
+      "word": "sonsuzluk",
+      "category": "abstract",
+      "difficulty": 2
+    },
+    {
+      "word": "varoluş",
+      "category": "abstract",
+      "difficulty": 3
+    },
+    {
+      "word": "gerçeklik",
+      "category": "abstract",
+      "difficulty": 2
+    },
+    {
+      "word": "özgürlük",
+      "category": "abstract",
+      "difficulty": 1
+    },
+    {
+      "word": "adalet",
+      "category": "abstract",
+      "difficulty": 2
+    },
+    {
+      "word": "eşitlik",
+      "category": "abstract",
+      "difficulty": 2
+    },
+    {
+      "word": "sadakat",
+      "category": "abstract",
+      "difficulty": 2
+    },
+    {
+      "word": "ihanet",
+      "category": "abstract",
+      "difficulty": 2
+    },
+    {
+      "word": "bilinç",
+      "category": "abstract",
+      "difficulty": 3
+    },
+    {
+      "word": "bilinçaltı",
+      "category": "abstract",
+      "difficulty": 3
+    },
+    {
+      "word": "simge",
+      "category": "abstract",
+      "difficulty": 2
+    },
+    {
+      "word": "anlam",
+      "category": "abstract",
+      "difficulty": 2
+    },
+    {
+      "word": "kaos",
+      "category": "abstract",
+      "difficulty": 2
+    },
+    {
+      "word": "düzen",
+      "category": "abstract",
+      "difficulty": 2
+    },
+    {
+      "word": "yankı",
+      "category": "abstract",
+      "difficulty": 2
+    },
+    {
+      "word": "gölge",
+      "category": "abstract",
+      "difficulty": 2
+    },
+    {
+      "word": "çelişki",
+      "category": "abstract",
+      "difficulty": 3
+    },
+    {
+      "word": "belirsizlik",
+      "category": "abstract",
+      "difficulty": 3
+    },
+    {
+      "word": "sonsuz döngü",
+      "category": "abstract",
+      "difficulty": 3
+    },
+    {
+      "word": "varlık",
+      "category": "abstract",
+      "difficulty": 3
+    },
+    {
+      "word": "yokluk",
+      "category": "abstract",
+      "difficulty": 3
+    },
+    {
+      "word": "evrensellik",
+      "category": "abstract",
+      "difficulty": 4
+    },
+    {
+      "word": "soyutlama",
+      "category": "abstract",
+      "difficulty": 4
+    },
+    {
+      "word": "algı",
+      "category": "abstract",
+      "difficulty": 3
+    },
+    {
+      "word": "özgür irade",
+      "category": "abstract",
+      "difficulty": 3
+    },
+    {
+      "word": "hakikat arayışı",
+      "category": "abstract",
+      "difficulty": 4
+    },
+    {
+      "word": "zıtlık",
+      "category": "abstract",
+      "difficulty": 3
+    },
+    {
+      "word": "dönüşüm",
+      "category": "abstract",
+      "difficulty": 2
+    },
+    {
+      "word": "farkındalık",
+      "category": "abstract",
+      "difficulty": 3
+    },
+    {
+      "word": "içgüdü",
+      "category": "abstract",
+      "difficulty": 2
+    },
+    {
+      "word": "öz",
+      "category": "abstract",
+      "difficulty": 2
+    },
+    {
+      "word": "hiçlik",
+      "category": "abstract",
+      "difficulty": 3
+    },
+    {
+      "word": "süreklilik",
+      "category": "abstract",
+      "difficulty": 3
+    },
+    {
+      "word": "değersizlik",
+      "category": "abstract",
+      "difficulty": 3
+    },
+    {
+      "word": "bütünlük",
+      "category": "abstract",
+      "difficulty": 3
+    },
+    {
+      "word": "paradoks",
+      "category": "difficult",
+      "difficulty": 3
+    },
+    {
+      "word": "metafor",
+      "category": "difficult",
+      "difficulty": 3
+    },
+    {
+      "word": "koordinat sistemi",
+      "category": "difficult",
+      "difficulty": 3
+    },
+    {
+      "word": "fotosentez",
+      "category": "difficult",
+      "difficulty": 3
+    },
+    {
+      "word": "entropi",
+      "category": "difficult",
+      "difficulty": 4
+    },
+    {
+      "word": "metafizik",
+      "category": "difficult",
+      "difficulty": 4
+    },
+    {
+      "word": "epistemoloji",
+      "category": "difficult",
+      "difficulty": 4
+    },
+    {
+      "word": "diyalektik",
+      "category": "difficult",
+      "difficulty": 4
+    },
+    {
+      "word": "simetri",
+      "category": "difficult",
+      "difficulty": 3
+    },
+    {
+      "word": "asimetri",
+      "category": "difficult",
+      "difficulty": 3
+    },
+    {
+      "word": "nöral ağ",
+      "category": "difficult",
+      "difficulty": 4
+    },
+    {
+      "word": "termodinamik",
+      "category": "difficult",
+      "difficulty": 4
+    },
+    {
+      "word": "kozmoloji",
+      "category": "difficult",
+      "difficulty": 4
+    },
+    {
+      "word": "relativite",
+      "category": "difficult",
+      "difficulty": 4
+    },
+    {
+      "word": "hiperbol",
+      "category": "difficult",
+      "difficulty": 4
+    },
+    {
+      "word": "anakronizm",
+      "category": "difficult",
+      "difficulty": 4
+    },
+    {
+      "word": "determinizm",
+      "category": "difficult",
+      "difficulty": 4
+    },
+    {
+      "word": "nihilizm",
+      "category": "difficult",
+      "difficulty": 4
+    },
+    {
+      "word": "hegemonya",
+      "category": "difficult",
+      "difficulty": 4
+    },
+    {
+      "word": "empati krizi",
+      "category": "difficult",
+      "difficulty": 4
+    },
+    {
+      "word": "varoluşsal",
+      "category": "difficult",
+      "difficulty": 4
+    },
+    {
+      "word": "transandantal",
+      "category": "difficult",
+      "difficulty": 4
+    },
+    {
+      "word": "multidisipliner",
+      "category": "difficult",
+      "difficulty": 4
+    },
+    {
+      "word": "biyoçeşitlilik",
+      "category": "difficult",
+      "difficulty": 3
+    },
+    {
+      "word": "jeopolitik",
+      "category": "difficult",
+      "difficulty": 4
+    },
+    {
+      "word": "makroekonomi",
+      "category": "difficult",
+      "difficulty": 4
+    },
+    {
+      "word": "sentaks",
+      "category": "difficult",
+      "difficulty": 4
+    },
+    {
+      "word": "morfoloji",
+      "category": "difficult",
+      "difficulty": 4
+    },
+    {
+      "word": "paralel evren",
+      "category": "difficult",
+      "difficulty": 4
+    },
+    {
+      "word": "mikrokozmos",
+      "category": "difficult",
+      "difficulty": 4
+    },
+    {
+      "word": "antropoloji",
+      "category": "difficult",
+      "difficulty": 4
+    },
+    {
+      "word": "fenomenoloji",
+      "category": "difficult",
+      "difficulty": 4
+    },
+    {
+      "word": "singülarite",
+      "category": "difficult",
+      "difficulty": 4
+    }
+  ]
+}
